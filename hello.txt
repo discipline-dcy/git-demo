@@ -3,3 +3,6 @@ Hello Git!
 这是新增的第二行，用来演示 git diff。
 这是在 feature 分支上新增的一行。
 这是在 GitHub 网页上直接改的一行。
+// 有问题的代码，模拟场景
+bool visable;
+if(!AllCurrencyListEnable){
